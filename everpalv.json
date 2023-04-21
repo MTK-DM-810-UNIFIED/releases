@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "",
+			"oem": "",
+			"device": "",
+			"filename": "crDroidAndroid-13.0-20230421-everpal-v9.4.zip",
+			"download": "https://github.com/MTK-DM-810-UNIFIED/releases/releases/download/v2023-04-21-crd-v/crDroidAndroid-13.0-20230421-everpal-v9.4.zip",
+			"timestamp": 1682032623,
+			"md5": "e959cefaa7efe982cee23be59535a55c",
+			"sha256": "adcd46bcb7ae2d0c5c6750534f72448d9957355c2506ad1c182b655a1a125b86",
+			"size": 1240781668,
+			"version": "9.4",
+			"buildtype": "",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
